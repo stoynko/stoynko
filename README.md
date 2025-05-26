@@ -1,4 +1,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoynko)
+
+## 👨‍💻 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stoynko&show_icons=true)
+
+Links:
+[LinkedIn] https://www.linkedin.com/in/yani-stoyanov 
 <!--
 **stoynko/stoynko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
