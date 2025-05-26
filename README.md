@@ -1,4 +1,5 @@
-Links:\n
+Links:
+
 [LinkedIn] https://www.linkedin.com/in/yani-stoyanov 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoynko)
 
