@@ -2,7 +2,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stoynko&theme=algolia)
 
 
-### 🎓 SoftUni Certificates
+### SoftUni Certificates
 
 - [Programming Basics with Java](https://softuni.bg/certificates/details/216413/ef123789)
 - [Programming Fundamentals with Java](https://softuni.bg/certificates/details/230781/c8ef443c)
