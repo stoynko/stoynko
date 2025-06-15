@@ -1,7 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stoynko&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stoynko&theme=algolia)
 
-<details>
+<details open>
 <summary><strong>SoftUni Certificates</strong></summary>
 
 
@@ -13,7 +13,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Hyperskill Certificates</strong></summary>
 
 - [Introduction to SQL](https://hyperskill.org/certificates/19032f4f-5c3d-4312-a154-c925b56dd91f.pdf)
