@@ -11,9 +11,7 @@
 - [Java OOP](https://softuni.bg/certificates/details/241324/9b768e66)
 - [MySQL](https://softuni.bg/certificates/details/244891/5df82998)
 
-<br>
 </details>
-
 <details open>
 <summary><strong>Hyperskill Certificates</strong></summary><br>
 
