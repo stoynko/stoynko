@@ -10,7 +10,8 @@
 - [Java Advanced](https://softuni.bg/certificates/details/236290/e5ad328e)
 - [Java OOP](https://softuni.bg/certificates/details/241324/9b768e66)
 - [MySQL](https://softuni.bg/certificates/details/244891/5df82998)
-
+- [Spring Data](https://softuni.bg/certificates/details/244891/5df82998)
+  
 </details>
 <details open>
 <summary><strong>Hyperskill Certificates</strong></summary><br>
