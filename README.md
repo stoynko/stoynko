@@ -11,7 +11,8 @@
 - [Java OOP](https://softuni.bg/certificates/details/241324/9b768e66)
 - [MySQL](https://softuni.bg/certificates/details/244891/5df82998)
 - [Spring Data](https://softuni.bg/certificates/details/247299/90bfc2fa)
-  
+- [Spring Web Fundamentals](https://softuni.bg/certificates/details/252020/48aa2c9f)
+- 
 </details>
 <details open>
 <summary><strong>Hyperskill Certificates</strong></summary><br>
