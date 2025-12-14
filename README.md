@@ -12,6 +12,7 @@
 - [MySQL](https://softuni.bg/certificates/details/244891/5df82998)
 - [Spring Data](https://softuni.bg/certificates/details/247299/90bfc2fa)
 - [Spring Web Fundamentals](https://softuni.bg/certificates/details/252020/48aa2c9f)
+- [Spring Advanced](https://softuni.bg/certificates/details/254342/116e6cb4)
   
 </details>
 <details open>
