@@ -16,7 +16,7 @@
   
 </details>
 <details open>
-<summary><strong>Hyperskill Certificates</strong></summary><br>
+<summary><strong>Other Certificates</strong></summary><br>
 
 - [Introduction to SQL](https://hyperskill.org/certificates/19032f4f-5c3d-4312-a154-c925b56dd91f.pdf)
 - [SQL for Backend Developers](https://hyperskill.org/certificates/3c756656-7dc4-411c-92fe-d0a6af0bbbad.pdf)
